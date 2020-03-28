@@ -19,5 +19,5 @@ Al finalizar este proceso, se enseña como se publican las imagenes en `Azure Re
 
 [dotnet_md]: README_DOTNET_APP.md
 [react_md]: README_REACT_APP.md
-[docker_config_md]: DOCKER_CONFIG.md
+[docker_config_md]: README_DOCKER_CONFIG.md
 [azure_docker_md]: AZURE_REGISTRY.md
